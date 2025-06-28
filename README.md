@@ -1,5 +1,15 @@
 ## Hi there 👋
-
+<!-- WALLET-LINKING-BEGIN
+{
+  "lastUpdated": "2025-06-28T10:41:46.891Z",
+  "wallets": [
+    {
+      "chain": "solana",
+      "address": "69MjwyRFRaosn81fiLqfQRVgvhpgADxSD9WtpayijLkT"
+    }
+  ]
+}
+WALLET-LINKING-END -->
 <!--
 **stuggle1/stuggle1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
