@@ -1,0 +1,232 @@
+[
+  {
+    "id": "feimao_1",
+    "name": "肥猫接口1",
+    "type": 0,
+    "api": "http://肥猫.com",
+    "logo": "",
+    "desc": "肥猫影视接口",
+    "nsfw": false,
+    "status": true
+  },
+  {
+    "id": "feimao_2",
+    "name": "肥猫接口2",
+    "type": 0,
+    "api": "http://hello.肥猫.com",
+    "logo": "",
+    "desc": "肥猫影视接口",
+    "nsfw": false,
+    "status": true
+  },
+  {
+    "id": "feimao_3",
+    "name": "肥猫接口3",
+    "type": 0,
+    "api": "https://6296.kstore.vip/facat.json",
+    "logo": "",
+    "desc": "肥猫影视接口",
+    "nsfw": false,
+    "status": true
+  },
+  {
+    "id": "moyu_1",
+    "name": "摸鱼接口1",
+    "type": 0,
+    "api": "http://我不是.摸鱼儿.com",
+    "logo": "",
+    "desc": "摸鱼影视接口",
+    "nsfw": false,
+    "status": true
+  },
+  {
+    "id": "moyu_2",
+    "name": "摸鱼接口2",
+    "type": 0,
+    "api": "http://我不是.摸鱼儿.xyz",
+    "logo": "",
+    "desc": "摸鱼影视接口",
+    "nsfw": false,
+    "status": true
+  },
+  {
+    "id": "tianwei_1",
+    "name": "天微接口多仓",
+    "type": 0,
+    "api": "https://tvkj.top/DC.txt",
+    "logo": "",
+    "desc": "天微影视多仓接口",
+    "nsfw": false,
+    "status": true
+  },
+  {
+    "id": "tianwei_2",
+    "name": "天微七星多仓",
+    "type": 0,
+    "api": "https://qixing.myhkw.com/DC.txt",
+    "logo": "",
+    "desc": "天微七星多仓接口",
+    "nsfw": false,
+    "status": true
+  },
+  {
+    "id": "tianwei_3",
+    "name": "天微七星接口1",
+    "type": 0,
+    "api": "https://qixing.myhkw.com/%E8%87%AA%E7%94%A8%E6%B5%8B%E8%AF%95.txt",
+    "logo": "",
+    "desc": "天微七星接口",
+    "nsfw": false,
+    "status": true
+  },
+  {
+    "id": "tianwei_4",
+    "name": "天微七星接口2",
+    "type": 0,
+    "api": "https://7337.kstore.space/twvip/%E8%87%AA%E7%94%A8%E6%B5%8B%E8%AF%95.json",
+    "logo": "",
+    "desc": "天微七星接口",
+    "nsfw": false,
+    "status": true
+  },
+  {
+    "id": "th_1",
+    "name": "TH挺好接口1",
+    "type": 0,
+    "api": "http://ztha.top/TVBox/GYOK.json",
+    "logo": "",
+    "desc": "TH挺好影视接口",
+    "nsfw": false,
+    "status": true
+  },
+  {
+    "id": "th_2",
+    "name": "TH挺好接口2",
+    "type": 0,
+    "api": "http://ztha.top/TVBox/thdjk.json",
+    "logo": "",
+    "desc": "TH挺好影视接口",
+    "nsfw": false,
+    "status": true
+  },
+  {
+    "id": "th_3",
+    "name": "TH挺好接口3",
+    "type": 0,
+    "api": "http://ztha.top/TVBox/FLCK.json",
+    "logo": "",
+    "desc": "TH挺好影视接口",
+    "nsfw": false,
+    "status": true
+  },
+  {
+    "id": "th_4",
+    "name": "TH挺好接口4",
+    "type": 0,
+    "api": "https://raw.gitmirror.com/ZTHA00/tvbox/main/gyck.json",
+    "logo": "",
+    "desc": "TH挺好影视接口",
+    "nsfw": false,
+    "status": true
+  },
+  {
+    "id": "madian_1",
+    "name": "码点多仓",
+    "type": 0,
+    "api": "http://mdxgh.top:5555/dc.json",
+    "logo": "",
+    "desc": "码点影视多仓接口",
+    "nsfw": false,
+    "status": true
+  },
+  {
+    "id": "madian_2",
+    "name": "码点单线1",
+    "type": 0,
+    "api": "http://mdxgh.top:5555/mdxgho.json",
+    "logo": "",
+    "desc": "码点影视单线接口",
+    "nsfw": false,
+    "status": true
+  },
+  {
+    "id": "madian_3",
+    "name": "码点单线2",
+    "type": 0,
+    "api": "http://mdxgh.top:5555/mdxgh.json",
+    "logo": "",
+    "desc": "码点影视单线接口",
+    "nsfw": false,
+    "status": true
+  },
+  {
+    "id": "madian_4",
+    "name": "码点单线3",
+    "type": 0,
+    "api": "http://mdxgh.top:5555/md.json",
+    "logo": "",
+    "desc": "码点影视单线接口",
+    "nsfw": false,
+    "status": true
+  },
+  {
+    "id": "madian_5",
+    "name": "码点多仓2",
+    "type": 0,
+    "api": "https://bitbucket.org/apei583/ysc/raw/main/yingshicangduocang.json",
+    "logo": "",
+    "desc": "码点影视多仓接口",
+    "nsfw": false,
+    "status": true
+  },
+  {
+    "id": "fantai_1",
+    "name": "饭太硬接口1",
+    "type": 0,
+    "api": "http://www.饭太硬.net/tv",
+    "logo": "",
+    "desc": "饭太硬影视接口（不适合内植）",
+    "nsfw": false,
+    "status": true
+  },
+  {
+    "id": "fantai_2",
+    "name": "饭太硬接口2",
+    "type": 0,
+    "api": "http://www.饭太硬.com/tv",
+    "logo": "",
+    "desc": "饭太硬影视接口（不适合内植）",
+    "nsfw": false,
+    "status": true
+  },
+  {
+    "id": "fantai_3",
+    "name": "饭太硬接口3",
+    "type": 0,
+    "api": "http://www.饭太硬.xyz/tv",
+    "logo": "",
+    "desc": "饭太硬影视接口（不适合内植）",
+    "nsfw": false,
+    "status": true
+  },
+  {
+    "id": "fantai_4",
+    "name": "饭太硬接口4",
+    "type": 0,
+    "api": "http://fty.xxooo.cf/tv",
+    "logo": "",
+    "desc": "饭太硬影视接口（不适合内植）",
+    "nsfw": false,
+    "status": true
+  },
+  {
+    "id": "fantai_5",
+    "name": "饭太硬接口5",
+    "type": 0,
+    "api": "https://gitee.com/xxooo/fan/raw/master/in.bmp",
+    "logo": "",
+    "desc": "饭太硬影视接口（不适合内植）",
+    "nsfw": false,
+    "status": true
+  }
+]
